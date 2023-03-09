@@ -11189,3 +11189,12 @@ button.owl-next {
   font-size: 22px;
   font-weight: 600;
 }
+
+/* ------  */
+.hover-eff {
+  transition: 0.5s;
+}
+.hover-eff:hover {
+  background-color: var(--primary-color);
+  /* opacity: 0.8; */
+}
